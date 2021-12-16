@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pontusnyman
-- 👀 I’m interested in JS, Automation, Cars, Family
-- 🌱 I’m currently learning Sales
+- 👀 I’m interested in Family, .js, Automation, Cars 
+- 🌱 I’m currently learning CSS for developers https://courses.joshwcomeau.com/
 - 📫 How to reach me pontusnyman.se
 
 <!---
