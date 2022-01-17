@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pontusnyman
-- 🖤 my family
+- I 🖤  spending time with my family
 - 👀 I’m interested in .js, Automation (of everything), Cars, floorball and other activites where your active
 - 🌱 I’m currently learning CSS for developers https://courses.joshwcomeau.com/
 - 📫 How to reach me https://pontusnyman.se
