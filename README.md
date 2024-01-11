@@ -2,7 +2,8 @@
 - I 💗 spending time with my family
 - 👀 I’m interested in .js, Automation (of everything), Cars, floorball and other activites where your active
 - ✅ Completed "CSS for developers" by Josh Comeau
-- 🌱 I’m currently doing the course Joy of React course by Josh Comeau.
+- ✅ Completed "Joy of React" by Josh Comeau.
+- 🌱 I’m currently digging in to accessibility WCAG development and testing
 - 📫 How to reach me https://pontusnyman.se
 - 👨‍💼 at Neo4j in Malmö as an Senior Lead Automation Engineer (Front-End)
 
